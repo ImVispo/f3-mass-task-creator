@@ -1,0 +1,23 @@
+{
+  "task": {
+    "category": "Sweatshirts",
+    "keyword": "+motion, +hooded",
+    "size": "Any",
+    "color": "any",
+    "quantity": "1",
+    "captcha": true,
+    "restockMode": true,
+    "cartMode": false,
+    "proxied": false
+  },
+  "delays": [
+    0,
+    500,
+    1000,
+    1500,
+    2000,
+    2500,
+    3000,
+    4000
+  ]
+}
