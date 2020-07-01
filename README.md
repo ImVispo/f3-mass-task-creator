@@ -9,4 +9,4 @@ The script will make 1 task per profile per delay for F3ather 2.X.
 ```
 node create
 ```
-Once tasks are created, move tasks.json into the f3ather folder
+Once tasks are created, move tasks.json into the F3ather folder
