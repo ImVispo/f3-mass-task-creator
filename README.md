@@ -1,4 +1,4 @@
-# F# Mass Task Creator
+# F3ather Mass Task Creator
 The script will make 1 task per profile per delay for F3ather 2.X.
 
 # Setup
